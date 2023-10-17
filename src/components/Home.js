@@ -6,7 +6,7 @@ function Home() {
     <div className="h-full w-full  md:flex justify-center items-center pt-5 md:pt-0">
       <div className="h-full w-full flex flex-col justify-center">
         <span className="nd:text-5xl text-3xl font-bold ">Hi, I'm </span>
-        <h1 className="md:text-[5rem] text-5xl text-pink-600 font-bold mb-8 mt-2">
+        <h1 className="md:text-[5rem] text-5xl text-pink-600 font-bold md:mb-8 mb-2  mt-2">
           Aravindan
         </h1>
         <span className="md:text-2xl font-bold md:-mt-5 ">
