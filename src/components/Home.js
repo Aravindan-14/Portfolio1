@@ -24,7 +24,7 @@ function Home() {
         </p>
         <FindMe />
       </div>
-      <div data-aos="fade-left"
+      <div data-aos="fade-left" data-aos-duration="2000"
         className="h-full w-full">
         <img
           className="w-full md:scale-125 mt-12 "
