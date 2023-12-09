@@ -16,7 +16,7 @@ function About() {
         </div>
       </div>
       <div data-aos="fade-left" data-aos-duration="2000">
-        <h1 className="text-5xl font-bold mb-5 text-center">
+        <h1 className="text-5xl font-bold mb-5 text-center mt-5">
           About <span className="text-5xl font-bold text-pink-600">Me!</span>
         </h1>
 
