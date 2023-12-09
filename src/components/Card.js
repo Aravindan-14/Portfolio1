@@ -1,19 +1,21 @@
 import React from "react";
 
-function Card() {
+function Card(props) {
+
+  const { cardData } = props
+
   return (
-    <div>
-      <div className="h-80 w-72 bg-black/50 hover:bg-black/80 rounded-xl p-6">
+    <div data-aos="fade-up" data-aos-duration="1500">
+      <div className="h-[370px] w-72 bg-black/50 hover:bg-black/80 rounded-xl p-7">
         <div>
-          <i class="text-5xl text-pink-600 mb-5 fa-solid fa-code"></i>
+          <i className={cardData.className}  ></i>
         </div>
-        <h2 className="text-3xl font-bold mb-5">Development</h2>
-        <p className="font-semibold text-clip">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum in eos
-          saepe ipsa cupiditate accusantium voluptatibus quidem nam,
+        <h2 className="text-2xl font-bold mb-5">{cardData.heading}</h2>
+        <p className=" text-justify text-sm mt-5">
+          {cardData.content}
         </p>
       </div>
-    </div>
+    </div >
   );
 }
 
