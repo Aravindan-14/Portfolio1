@@ -2,6 +2,30 @@ import React from "react";
 import EducationData from "./Education/EducationData";
 
 function Education() {
+
+  let education1 = {
+    duration: "2019 - 2022",
+    heading: "Mohamed Sathak Collage of Art and Science",
+    content: "BCom Computer Applications is a three-year graduation degree, consisting of six semesters. It is opted by several students who want to pursue B.com. The course includes various topics "
+  }
+  let education2 = {
+    duration: "2022 - 2024",
+    heading: "Madras University",
+    content: "BCom Computer Applications is a three-year graduation degree, consisting of six semesters. It is opted by several students who want to pursue B.com. The course includes various topics"
+  }
+
+  let experience1 = {
+    duration: "2022 – 2023",
+    heading: "WORK EXPERIENCE",
+    content: "Process Associate Experian project in HCL (24/08/22 – 30/06/23). Analyse data and prepare Balance Sheet, Profit and Loss Account. Also verify Cash Flow statements using Toscana tool"
+  }
+  let experience2 = {
+    duration: "6 Month",
+    heading: "E-COMMERCE WEBSITE ",
+    content: "The website is mainly used for placing orders & maintaining customer details in the Database. My Responsibility is to design a UI screen using HTML, CSS, Bootstrap, Javascript & jQuery."
+  }
+
+
   return (
     <div className="md:pt-20">
       <h1 className="text-4xl md:text-5xl font-bold pb-10 text-center md:mt-5  mt-24">
@@ -11,15 +35,15 @@ function Education() {
         <div>
           <h1 className="text-xl font-bold text-center pb-3">Education</h1>
           <div className=" border-l-2 border-pink-600">
-            <EducationData />
-            <EducationData />
+            <EducationData data={education1} />
+            <EducationData data={education2} />
           </div>
         </div>
         <div>
           <h1 className="text-xl font-bold text-center pb-3">Experience</h1>
           <div className=" border-l-2 border-pink-600">
-            <EducationData />
-            <EducationData />
+            <EducationData data={experience1} />
+            <EducationData data={experience2} />
           </div>
         </div>
       </div>
