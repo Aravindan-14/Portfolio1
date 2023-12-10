@@ -17,7 +17,7 @@ function Education() {
   let experience1 = {
     duration: "6 Month Internship",
     heading: "E-COMMERCE WEBSITE ",
-    content: "The website is mainly used for placing orders & maintaining customer details in the Database. My Responsibility is to design a UI screen using HTML, CSS, Bootstrap, Javascript & jQuery."
+    content: "Orders are placed and customer information is kept up to date in the database. I use HTML 5, JavaScript, Tailwind, ReactJS, NodeJS, and SQL in my work."
   }
   let experience2 = {
     duration: "2022 - 2023",
