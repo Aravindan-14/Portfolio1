@@ -31,9 +31,7 @@ function App() {
       <section className="md:px-20 px-5  overflow-hidden  text-white">
         <Education />
       </section>
-      <section className="md:px-20 px-5 h-full pb-10 overflow-hidden text-white ">
-        <Contact />
-      </section>
+  
       <section>
         <Footer />
       </section>
