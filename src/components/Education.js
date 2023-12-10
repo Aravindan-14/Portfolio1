@@ -15,14 +15,14 @@ function Education() {
   }
 
   let experience1 = {
-    duration: "2022 – 2023",
-    heading: "WORK EXPERIENCE",
-    content: "Process Associate Experian project in HCL (24/08/22 – 30/06/23). Analyse data and prepare Balance Sheet, Profit and Loss Account. Also verify Cash Flow statements using Toscana tool"
-  }
-  let experience2 = {
-    duration: "6 Month",
+    duration: "6 Month Internship",
     heading: "E-COMMERCE WEBSITE ",
     content: "The website is mainly used for placing orders & maintaining customer details in the Database. My Responsibility is to design a UI screen using HTML, CSS, Bootstrap, Javascript & jQuery."
+  }
+  let experience2 = {
+    duration: "2022 - 2023",
+    heading: "Work Experience",
+    content: ""
   }
 
 
