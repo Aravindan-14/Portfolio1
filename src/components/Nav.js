@@ -10,7 +10,7 @@ function Nav() {
           <li className="hover:text-pink-600">About</li>
           <li className="hover:text-pink-600">Skill</li>
           <li className="hover:text-pink-600">Professional</li>
-          <li className="hover:text-pink-600">Education</li> //<li className="hover:text-pink-600">Contact Me</li>
+          <li className="hover:text-pink-600">Education</li> 
         </ul>
         <div className="md:hidden">
           <i class="fa-solid fa-bars"></i>
