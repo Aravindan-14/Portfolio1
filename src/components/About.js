@@ -21,7 +21,7 @@ function About() {
         </h1>
 
         <p className=" mb-10 md:pr-28 text-center">
-          Hi, I'm Aravindan! I'm a full stack developer, UI designer, and editor. In my spare time, I enjoy photography, playing guitar, and exploring new technologies. I'm passionate about creating amazing digital experiences and constantly learning and growing in my field.
+          I am actively seeking opportunities as a full-stack developer. In addition to my technical expertise, I have skills in designing posters and logos, incorporating my editing skills into front-end development. My unique skill set and passion for both coding and design position me as a versatile candidate ready to contribute to innovative projects.
         </p>
         <button className="uppercase bg-black/50 px-5 py-3 rounded text-pink-600 font-semibold hover:text-white hover:bg-pink-600">
           download cv
