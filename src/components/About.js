@@ -1,5 +1,5 @@
 import React from "react";
-import Resume from "./Aravindan.pdf"
+import Resume from "./ARAVINDAN E RESUME-F 2023.pdf"
 
 function About() {
   return (
