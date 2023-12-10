@@ -3,7 +3,7 @@ import Professional from "./Professional";
 
 function Skill() {
   return (
-    <div className="h-full w-full pt-20 ">
+    <div id="skill" className="h-full w-full pt-20 ">
       <div>
         <h1 className="text-5xl font-bold text-center mb-10">
           My <span className="text-pink-600">Skill</span>
