@@ -18,9 +18,7 @@ function Home() {
           Full Stack Developer
         </span>
         <p className="mt-3 mb-10 md:pr-20 text-sm font-semibold">
-          I design and code beautifully simple things, and I love what I do. I
-          use animation as a third dimension by which Lorem ipsum dolor sit amet
-          consectetur adipisicing.
+         I'm passionate about creating amazing digital experiences and constantly learning and growing in my field.Ready to contribute expertise in both front-end and back-end development for seamless web application integration.
         </p>
         <FindMe />
       </div>
