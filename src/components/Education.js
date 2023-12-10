@@ -3,12 +3,12 @@ import EducationData from "./Education/EducationData";
 
 function Education() {
 
-  let education1 = {
+  let education2 = {
     duration: "2019 - 2022",
     heading: "Mohamed Sathak Collage of Art and Science",
     content: "Completed Bachelor of Commerce with a specialization in Computer Applications (Bcom CA), demonstrating a strong foundation in both financial principles and computer-based applications."
   }
-  let education2 = {
+  let education1 = {
     duration: "2022 - 2024",
     heading: "Madras University",
     content: "I'm currently pursuing an MCA while improving my problem-solving and software programming talents.utilising theoretical understanding in real-world situations."
@@ -22,7 +22,7 @@ function Education() {
   let experience2 = {
     duration: "2022 - 2023",
     heading: "Work Experience",
-    content: ""
+    content: "Process Associate Experian project in HCL (24/08/22 – 30/06/23) Analyse data and prepare Balance Sheet, Profit and Loss Account. Also verify Cash Flow statements using Toscana tool."
   }
 
 
