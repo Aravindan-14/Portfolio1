@@ -6,12 +6,12 @@ function Education() {
   let education1 = {
     duration: "2019 - 2022",
     heading: "Mohamed Sathak Collage of Art and Science",
-    content: "BCom Computer Applications is a three-year graduation degree, consisting of six semesters. It is opted by several students who want to pursue B.com. The course includes various topics "
+    content: "Completed Bachelor of Commerce with a specialization in Computer Applications (Bcom CA), demonstrating a strong foundation in both financial principles and computer-based applications."
   }
   let education2 = {
     duration: "2022 - 2024",
     heading: "Madras University",
-    content: "BCom Computer Applications is a three-year graduation degree, consisting of six semesters. It is opted by several students who want to pursue B.com. The course includes various topics"
+    content: "I'm currently pursuing an MCA while improving my problem-solving and software programming talents.utilising theoretical understanding in real-world situations."
   }
 
   let experience1 = {
