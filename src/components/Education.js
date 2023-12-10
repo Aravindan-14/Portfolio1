@@ -22,7 +22,7 @@ function Education() {
   let experience2 = {
     duration: "2022 - 2023",
     heading: "Work Experience",
-    content: "Process Associate Experian project in HCL (24/08/22 – 30/06/23) Analyse data and prepare Balance Sheet, Profit and Loss Account. Also verify Cash Flow statements using Toscana tool."
+    content: "Process Associate Experian Project in HCL (24/08/22–30/06/23) Analyse the data and prepare a balance sheet and profit and loss report. Also, verify cash flow statements using the Toscana tool."
   }
 
 
