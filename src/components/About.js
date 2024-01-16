@@ -1,5 +1,5 @@
 import React from "react";
-import Resume from "./ARAVINDAN E RESUME-F 2023.pdf"
+import Resume from "./ARAVINDAN E RESUME-F.2024.pdf"
 
 function About() {
   return (
@@ -23,7 +23,7 @@ function About() {
         <p className=" mb-10 md:pr-28 text-center">
           I am actively seeking opportunities as a full-stack developer. In addition to my technical expertise, I have skills in designing posters and logos, incorporating my editing skills into front-end development. My unique skill set and passion for both coding and design position me as a versatile candidate ready to contribute to innovative projects.
         </p>
-        <a href={Resume} download="Aravindan Resum" ><button className="uppercase bg-black/50 px-5 py-3 rounded text-pink-600 font-semibold hover:text-white hover:bg-pink-600">
+        <a href={Resume} download="Aravindan CV 2024" ><button className="uppercase bg-black/50 px-5 py-3 rounded text-pink-600 font-semibold hover:text-white hover:bg-pink-600">
           download cv
         </button></a>
       </div>
