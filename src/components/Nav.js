@@ -3,7 +3,7 @@ import MobNav from "./MobNav";
 
 function Nav() {
 
-  const [toggle, setToggle] = useState(true)
+  const [toggle, setToggle] = useState(false)
 
   return (
     <div className="text-white">
