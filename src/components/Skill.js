@@ -19,7 +19,7 @@ function Skill() {
             <img src="Fg.png" alt=""></img>
           </div>
           <div data-aos="fade-up" data-aos-duration="1000" className="bg-black/50 h-16 rounded w-48 flex justify-center items-center p-3 hover:bg-gray-800">
-            <img src="Ai.png" alt=""></img>
+            <img src="Node js.png" alt=""></img>
           </div>
         </div>
       </div>
