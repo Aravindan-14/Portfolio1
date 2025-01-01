@@ -3,7 +3,7 @@ import Resume from "./ARAVINDAN E RESUME-F.2024.pdf"
 
 function About() {
   return (
-    <div  id="about" className=" md:flex gap-14 justify-center items-center pt-28 2xl:w-[2000px]">
+    <div  id="about" className=" md:flex gap-14 justify-center items-center pt-28 2xl:w-full">
       <div data-aos="fade-right" data-aos-duration="2000" className="h-full w-full flex md:justify-end justify-center items-center"  >
         <div className="p-5 bg-black/50 rounded overflow-hidden">
           <div className="h-full w-full overflow-hidden rounded ">
